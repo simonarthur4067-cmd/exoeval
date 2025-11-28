@@ -58,3 +58,7 @@ section {
 .card-tests {
   margin: 0 auto;
 }
+
+li {
+  list-style-type: none;
+}
